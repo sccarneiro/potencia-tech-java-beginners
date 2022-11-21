@@ -3,3 +3,7 @@ tipos-variaveis/.vscode/settings.json
 tipos-variaveis/README.md
 sistema-smart-tv/.vscode/settings.json
 sistema-smart-tv/README.md
+java-terminal/.vscode/settings.json
+java-terminal/.vscode/launch.json
+java-terminal/README.md
+.gitignore
